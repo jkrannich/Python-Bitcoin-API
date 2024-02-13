@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'bd50c240-c9d7-4251-8ba3-5c2679aca405'
+api_key = 'INSERT API KEY'  # API key excluded for security reasons
 
 url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
 
